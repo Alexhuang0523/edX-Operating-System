@@ -1,0 +1,24 @@
+            Computer 
+Input ---> Processing ---> Output 
+
+All Components :
+1) CPU (Central Processing Unit) Fetch-Decode-Execute
+2) Main Memory (Code & Data stored temporarily) Hierarchy of Memory
+3) Secondary Storage (Information stored permanently) 
+   Purchase laptop with Solid State Driver-random read 		
+4) Video Graphic Controller
+5) GPU (Graphic Processing Unit) more complex than CPU
+   Bitcoin Mining
+6) Network Interface for communications
+7) Peripheral Interfaces (USB-Universal Serial Bus, Firewire)
+8) Bus 	
+9) System Bus (Pathway between CPU & Main Memory)
+
+More Hardware requires more Software 
+More Software created requires more Hardware as well it never disappears 
+
+Process = Owner of a farm who owns a place, horse, car, equipment etc 
+Thread = Workers for farm workers A,B,C each responsible different tasks 
+	       Workers A planting seeds may require water or any equipment’s provided by the owner
+	
+
